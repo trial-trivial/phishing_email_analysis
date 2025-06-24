@@ -63,3 +63,5 @@ Steps to extract and analyze email headers:
 ![MXToolbox Header Analysis Output](./Delivery%20Information.png)
 ![MXToolbox Header Analysis Output](./DKIM%20signature.png)
 ![MXToolbox Header Analysis Output](./Test%20Results.png)
+
+## NOTE: The "DKIM-Signature Body Hash Not Verified" alert means the computed hash of the message body doesn't correspond to the body hash value stored in the "bh=" tag of the DKIM-Signature.
