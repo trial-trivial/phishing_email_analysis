@@ -60,6 +60,6 @@ Steps to extract and analyze email headers:
 
 ## Screenshots of the report
 
-![MXToolbox Header Analysis Output](./Delivery Information.png)
-![MXToolbox Header Analysis Output](./DKIM Signature.png)
-![MXToolbox Header Analysis Output](./Test Results.png)
+![MXToolbox Header Analysis Output](./Delivery%20Information.png)
+![MXToolbox Header Analysis Output](./DKIM%20signature.png)
+![MXToolbox Header Analysis Output](./Test%20Results.png)
