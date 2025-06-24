@@ -59,5 +59,7 @@ Steps to extract and analyze email headers:
 | **DKIM Authenticated** | ❌ Failed        | Body/content may have been modified post-signing—suggests potential tampering. |
 
 ## Screenshots of the report
-![MXToolbox Header Analysis Output](images/mxtoolbox-result.png)
-![MXToolbox Header Analysis Output](images/mxtoolbox-result.png)
+
+![MXToolbox Header Analysis Output](./Delivery Information.png)
+![MXToolbox Header Analysis Output](./DKIM Signature.png)
+![MXToolbox Header Analysis Output](./Test Results.png)
